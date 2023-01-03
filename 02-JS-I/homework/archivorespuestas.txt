@@ -1,0 +1,7 @@
+* Variables: las variables son espacios en los que se pueden declarar terminos. pueden ser declarados de forma que quede guardado simplemente el termino, por ejemplo, el espacio ''chupetin'' o además pueden ser declaradas y guardar información en la misma 
+''espacio chupetin'' + ''caramelo saborizado que se disuelve en la boca''.
+var chupetin = 'caramelo que se disuelve en la boca'
+ * Strings: Los Strings se escriben entre comillas y son simplemente bloques de texto, por ejemplo 'carbon'
+ * Funciones: Las funciones son las columna vertebral de las variables, las funciones se encargan de calcularlas, cambiarlas, es decir utilizarlas.
+ * Declaraciones: Las declaraciones son las instrucciones que le damos a la computadora comunicandonos a través de la consola.
+ * Valores booleanos:Los booleanos son dos valores unicos que se rigen mediante la logica de '' Boole'', activar o desactivar. ''True'' and ''False''.
