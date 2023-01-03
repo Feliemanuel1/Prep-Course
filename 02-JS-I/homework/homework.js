@@ -170,7 +170,7 @@ function esPositivo(numero) {
     return false;
   }
   else if (numero> 0) {
-    return ''es Positivo'';
+    return ''es positivo'';
   }
   else {
     return '' es negativo ''
@@ -182,7 +182,7 @@ function agregarSimboloExclamacion(str) {
   // Ejemplo: "hello world" pasaría a ser "hello world!"
   // Tu código:
   return str + '!';
-}
+}npmnom
 
 function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
